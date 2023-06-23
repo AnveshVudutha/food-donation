@@ -1,0 +1,111 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="utf-8">
+  <meta content="width=device-width, initial-scale=1.0" name="viewport">
+
+  <title>Food</title>
+  <meta content="" name="description">
+  <meta content="" name="keywords">
+
+ 
+  <link href="assets1/img/favicon.png" rel="icon">
+  <link href="assets1/img/apple-touch-icon.png" rel="apple-touch-icon">
+
+  
+  <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,600,600i,700,700i|Roboto:300,300i,400,400i,500,500i,600,600i,700,700i|Poppins:300,300i,400,400i,500,500i,600,600i,700,700i" rel="stylesheet">
+
+  
+  <link href="assets1/vendor/animate.css/animate.min.css" rel="stylesheet">
+  <link href="assets1/vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+  <link href="assets1/vendor/bootstrap-icons/bootstrap-icons.css" rel="stylesheet">
+  <link href="assets1/vendor/boxicons/css/boxicons.min.css" rel="stylesheet">
+  <link href="assets1/vendor/glightbox/css/glightbox.min.css" rel="stylesheet">
+  <link href="assets1/vendor/swiper/swiper-bundle.min.css" rel="stylesheet">
+
+  
+  <link href="assets1/css/style.css" rel="stylesheet">
+
+</head>
+
+<body>
+
+    <header id="header" class="fixed-top d-flex align-items-center">
+        <div class="container d-flex align-items-center justify-content-between">
+    
+          <h1 class="logo"><a href="index.html">ZERO HUNGER</a></h1>
+          <nav id="navbar" class="navbar">
+            <ul>
+              <li><a class="nav-link scrollto active" href="index.html">Home</a></li>
+             
+            </ul>
+            <i class="bi bi-list mobile-nav-toggle"></i>
+          </nav>
+        </div>
+      </header>
+     
+      <section id="hero">
+        <div class="hero-container">
+            
+               
+      
+            <div class="carousel-inner" role="listbox">
+        
+             
+             
+                <div class="carousel-item active" style="background-image: url(assets/img/slide/slide-4.jpg);">
+                    <div class="carousel-container">
+                      <div class="carousel-content">
+                        <h2 class="animate__animated animate__fadeInDown">Food for the need</h2>
+                        <p class="animate__animated animate__fadeInUp">Food is a important resource so use it efficiently!!!Join with us to donate or take food</p>
+                        <div>
+
+                            <a href="form.PHP" class="btn-get-started animate__animated animate__fadeInUp scrollto" >Donate</a>
+                          <a href="retrieve.html" class="btn-get-started animate__animated animate__fadeInUp scrollto">Retrieve</a>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+    
+            
+             
+    
+             
+             
+    
+            
+          </div>
+        </div>
+      </section>
+    
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                  <a href="#" class="back-to-top d-flex align-items-center justify-content-center"><i class="bi bi-arrow-up-short"></i></a>
+
+  
+  <script src="assets1/vendor/purecounter/purecounter.js"></script>
+  <script src="assets1/vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
+  <script src="assets1/vendor/glightbox/js/glightbox.min.js"></script>
+  <script src="assets1/vendor/isotope-layout/isotope.pkgd.min.js"></script>
+  <script src="assets1/vendor/swiper/swiper-bundle.min.js"></script>
+  <script src="assets1/vendor/php-email-form/validate.js"></script>
+
+
+  <script src="assets1/js/main.js"></script>
